@@ -3,7 +3,7 @@ import setuptools
 import re
 
 # Extract the version from the init file.
-VERSIONFILE="filter_choices"
+VERSIONFILE="filter_choices.py"
 getversion = re.search( r"^__version__ = ['\"]([^'\"]*)['\"]", open(VERSIONFILE, "rt").read(), re.M)
 if getversion:
     new_version = getversion.group(1)
