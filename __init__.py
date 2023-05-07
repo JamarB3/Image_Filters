@@ -1,4 +1,4 @@
-from Image_Filters.filter_choices import Filters, valstrax.png
+from Image_Filters.filter_choices import Filters
 
 __author__ = 'Miles Adedjouma, Jamar Bailey III, Darnell Love'
 __email__ = 'jamar.bailey@bison.howard.edu'
